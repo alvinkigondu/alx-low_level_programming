@@ -2,12 +2,12 @@
 #include <stdio.h>
 
 /**
- * main - this is the main function
+ * main - function to print combination of two numbers
  *
  * Return: 0 when success
- *
  */
-    int main  (void)
+
+int main(void)
 {
     
 	    int i = '0';
@@ -32,11 +32,11 @@
 			             putchar(',');
 				     putchar(' ');
     			       }
-		   }
-		 j++;   
-	  }
-          j = '0';
-          i++;
-       }
+		            }
+		            j++;   
+	             }
+		    j = '0';
+                    i++;
+           }
 return (0);
  } 
