@@ -3,7 +3,7 @@
 /**
  * _memset - test function
  * Fills memory with constant byte
- * @S: pointed destination
+ * @s: pointed destination
  * @b: constant type
  * @n: byte
  * Return: 0
