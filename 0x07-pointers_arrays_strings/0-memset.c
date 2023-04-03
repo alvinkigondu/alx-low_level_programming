@@ -2,9 +2,9 @@
 
 /**
  * _memset - test function
- * Fills memory with constant byte
+ * fills memorywith constant byte
  * @s: pointed destination
- * @b: constant type
+ * @b:constant byte
  * @n: byte
  * Return: 0
  */
