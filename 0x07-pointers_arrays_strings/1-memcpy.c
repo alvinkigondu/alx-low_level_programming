@@ -5,7 +5,7 @@
  * @dest: input
  * @src: input
  * @n: input
- * Return 0
+ * Return: 0
  */
 
 char *_memcpy(char *dest, char *src, unsigned int n)
